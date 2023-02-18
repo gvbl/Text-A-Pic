@@ -1,5 +1,3 @@
-## Privacy Policy
-
 Text-A-Pic does not save or share any user data outside of app storage on the device.  No information is sent to our web servers, nor any other party's servers.
 
 The Android permissions needed to use the app are:
