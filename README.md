@@ -1,3 +1,3 @@
-# TextAPic-Public
+# Text-A-Pic
 
-Public pages for Text-A-Pic
+An Android app that sends pictures by text message.
