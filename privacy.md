@@ -1,6 +1,6 @@
 layout: page
 title: "privacy"
-permalink: /legal/privacy
+permalink: /legal/privacy/
 
 Text-A-Pic does not save or share any user data outside of app storage on the device.  No information is sent to our web servers, nor any other party's servers.
 
