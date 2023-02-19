@@ -3,7 +3,6 @@ Text-A-Pic does not save or share any user data outside of app storage on the de
 The Android permissions needed to use the app are:
 * READ_CONTACTS
 * CAMERA
-* READ_SMS
 * SEND_SMS
 * WRITE_EXTERNAL_STORAGE
 
@@ -14,9 +13,6 @@ This permissions is used to allow the user to select contacts from their device.
 
 CAMERA
 Used to take photos only, no video recording is performed by the app.
-
-READ_SMS
-This permission is required to fill out the "from" field of the data structure used to send text messages.  We do not read user's SMS messages.
 
 SEND_SMS
 Used to send photos by SMS.
